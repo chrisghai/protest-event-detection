@@ -8,14 +8,14 @@ This code can be used to run protest event detection models that were trained as
 
 ##### List of classes
 <details>
-  <summary>*Haystack classes*</summary>
+  <summary>Haystack classes</summary>
 
   1. Non-protest
   2. Protest
 
 </details>
 <details>
-  <summary>*Form classes*</summary>
+  <summary>Form classes</summary>
 
   1. Blockade/slowdown/disruption
   2. Boycott
@@ -28,7 +28,7 @@ This code can be used to run protest event detection models that were trained as
 
 </details>
 <details>
-  <summary>*Issue classes*</summary>
+  <summary>Issue classes</summary>
 
   1. Anti-colonial/political independence
   2. Anti-war/peace
@@ -48,7 +48,7 @@ This code can be used to run protest event detection models that were trained as
 
 </details>
 <details>
-  <summary>*Target classes*</summary>
+  <summary>Target classes</summary>
 
   1. Domestic government
   2. Foreign government
