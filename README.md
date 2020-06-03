@@ -66,7 +66,7 @@ Running the Python (3.7+) script requires a couple of packages:
 - [tqdm](https://pypi.org/project/tqdm/)
 - [numpy](https://numpy.org/)
 
-The models can be downloaded from [here](https://www.dropbox.com/s/61cqlvharan4xkz/models.tar.gz?dl=0) (approx. 4.2GB). The file must be extracted into the `src` directory, and this can be done using e.g. [7-zip](https://www.7-zip.org/) on Windows or with [`tar`](https://www.cyberciti.biz/faq/how-to-create-tar-gz-file-in-linux-using-command-line/) on Linux/Mac.
+The models can be downloaded from [here](https://www.dropbox.com/s/61cqlvharan4xkz/models.tar.gz?dl=0) (approx. 4.2GB). The file must be extracted into the `src/` directory, and this can be done using e.g. [7-zip](https://www.7-zip.org/) on Windows or with [`tar`](https://www.cyberciti.biz/faq/how-to-create-tar-gz-file-in-linux-using-command-line/) on Linux/Mac.
 
 Using `tar`, the command is
 ```
