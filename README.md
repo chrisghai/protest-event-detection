@@ -1,5 +1,3 @@
-git@github.com:chrisghai/protest-event-detection.git
-
 # Protest event detection
 This code can be used to run protest event detection models that were trained as part of my master thesis. There are four different models:
 - **Haystack classifier**: Predict whether a given text is about a protest (binary classification).
