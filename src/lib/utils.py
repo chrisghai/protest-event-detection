@@ -19,7 +19,6 @@ from lib.models import (
 )
 
 MODEL_FOLDER = 'models'
-MODEL_FOLDER = '/home/chris/Downloads/models'
 HAYSTACK_CLASSES = {
     0: 'Non-protest', 
     1: 'Protest',
